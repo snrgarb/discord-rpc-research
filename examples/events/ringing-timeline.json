@@ -1,0 +1,37 @@
+[
+  {
+    "at": "2026-10-11T23:28:53.848Z",
+    "evt": "VOICE_STATE_CREATE",
+    "who": "friend"
+  },
+  {
+    "at": "2026-10-11T23:28:53.849Z",
+    "evt": "VOICE_STATE_UPDATE",
+    "who": "friend"
+  },
+  {
+    "at": "2026-10-11T23:29:01.283Z",
+    "evt": "VOICE_CHANNEL_SELECT",
+    "who": "200000000000000001"
+  },
+  {
+    "at": "2026-10-11T23:29:01.666Z",
+    "evt": "VOICE_CONNECTION_STATUS",
+    "who": "AWAITING_ENDPOINT"
+  },
+  {
+    "at": "2026-10-11T23:29:01.667Z",
+    "evt": "VOICE_STATE_CREATE",
+    "who": "me"
+  },
+  {
+    "at": "2026-10-11T23:29:01.667Z",
+    "evt": "VOICE_STATE_UPDATE",
+    "who": "me"
+  },
+  {
+    "at": "2026-10-11T23:29:01.893Z",
+    "evt": "VOICE_CONNECTION_STATUS",
+    "who": "CONNECTING"
+  }
+]

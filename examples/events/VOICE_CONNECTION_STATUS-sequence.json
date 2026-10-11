@@ -1,0 +1,62 @@
+[
+  {
+    "at": "2026-10-11T23:28:44.125Z",
+    "evt": "VOICE_CONNECTION_STATUS",
+    "data": {
+      "state": "DISCONNECTED",
+      "hostname": "",
+      "pings": [],
+      "average_ping": 0
+    }
+  },
+  {
+    "at": "2026-10-11T23:29:01.666Z",
+    "evt": "VOICE_CONNECTION_STATUS",
+    "data": {
+      "state": "AWAITING_ENDPOINT",
+      "hostname": null,
+      "pings": [],
+      "average_ping": 0
+    }
+  },
+  {
+    "at": "2026-10-11T23:29:01.893Z",
+    "evt": "VOICE_CONNECTION_STATUS",
+    "data": {
+      "state": "CONNECTING",
+      "hostname": "c-syd08-84dd8a7b.discord.media",
+      "pings": [],
+      "average_ping": 0
+    }
+  },
+  {
+    "at": "2026-10-11T23:29:01.954Z",
+    "evt": "VOICE_CONNECTION_STATUS",
+    "data": {
+      "state": "AUTHENTICATING",
+      "hostname": "c-syd08-84dd8a7b.discord.media",
+      "pings": [],
+      "average_ping": 0
+    }
+  },
+  {
+    "at": "2026-10-11T23:29:01.963Z",
+    "evt": "VOICE_CONNECTION_STATUS",
+    "data": {
+      "state": "VOICE_CONNECTING",
+      "hostname": "c-syd08-84dd8a7b.discord.media",
+      "pings": [],
+      "average_ping": 0
+    }
+  },
+  {
+    "at": "2026-10-11T23:29:01.984Z",
+    "evt": "VOICE_CONNECTION_STATUS",
+    "data": {
+      "state": "VOICE_CONNECTED",
+      "hostname": "c-syd08-84dd8a7b.discord.media",
+      "pings": [],
+      "average_ping": 0
+    }
+  }
+]

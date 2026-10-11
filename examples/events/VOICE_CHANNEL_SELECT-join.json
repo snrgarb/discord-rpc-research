@@ -1,0 +1,8 @@
+{
+  "at": "2026-10-11T23:29:01.283Z",
+  "evt": "VOICE_CHANNEL_SELECT",
+  "data": {
+    "channel_id": "200000000000000001",
+    "guild_id": null
+  }
+}

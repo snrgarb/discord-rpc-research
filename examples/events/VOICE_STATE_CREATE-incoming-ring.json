@@ -1,0 +1,31 @@
+{
+  "at": "2026-10-11T23:28:53.848Z",
+  "evt": "VOICE_STATE_CREATE",
+  "data": {
+    "nick": "Friend",
+    "mute": false,
+    "volume": 100,
+    "pan": {
+      "left": 1,
+      "right": 1
+    },
+    "voice_state": {
+      "mute": false,
+      "deaf": false,
+      "self_mute": false,
+      "self_deaf": false,
+      "suppress": false
+    },
+    "user": {
+      "id": "100000000000000002",
+      "username": "friend",
+      "discriminator": "0",
+      "global_name": "Friend",
+      "avatar": "fedcba9876543210fedcba9876543210",
+      "avatar_decoration_data": null,
+      "bot": false,
+      "flags": 0,
+      "premium_type": 0
+    }
+  }
+}

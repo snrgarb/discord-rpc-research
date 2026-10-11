@@ -1,0 +1,52 @@
+{
+  "input": {
+    "available_devices": [
+      {
+        "id": "default",
+        "name": "Default (MacBook Pro Microphone)"
+      },
+      {
+        "id": "BuiltInMicrophoneDevice",
+        "name": "MacBook Pro Microphone"
+      },
+      {
+        "id": "MSLoopbackDriverDevice_UID",
+        "name": "Microsoft Teams Audio"
+      }
+    ],
+    "device_id": "default",
+    "volume": 100
+  },
+  "output": {
+    "available_devices": [
+      {
+        "id": "default",
+        "name": "Default (MacBook Pro Speakers)"
+      },
+      {
+        "id": "BuiltInSpeakerDevice",
+        "name": "MacBook Pro Speakers"
+      },
+      {
+        "id": "MSLoopbackDriverDevice_UID",
+        "name": "Microsoft Teams Audio"
+      }
+    ],
+    "device_id": "default",
+    "volume": 100
+  },
+  "mode": {
+    "type": "VOICE_ACTIVITY",
+    "auto_threshold": true,
+    "threshold": -60,
+    "shortcut": [],
+    "delay": 20
+  },
+  "automatic_gain_control": true,
+  "echo_cancellation": true,
+  "noise_suppression": false,
+  "qos": false,
+  "silence_warning": true,
+  "deaf": false,
+  "mute": false
+}

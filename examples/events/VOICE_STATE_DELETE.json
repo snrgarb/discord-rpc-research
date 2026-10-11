@@ -1,0 +1,31 @@
+{
+  "at": "2026-10-11T23:29:07.516Z",
+  "evt": "VOICE_STATE_DELETE",
+  "data": {
+    "nick": "Me",
+    "mute": false,
+    "volume": 100,
+    "pan": {
+      "left": 1,
+      "right": 1
+    },
+    "voice_state": {
+      "mute": false,
+      "deaf": false,
+      "self_mute": false,
+      "self_deaf": false,
+      "suppress": false
+    },
+    "user": {
+      "id": "100000000000000001",
+      "username": "me",
+      "discriminator": "0",
+      "global_name": "Me",
+      "avatar": "0123456789abcdef0123456789abcdef",
+      "avatar_decoration_data": null,
+      "bot": false,
+      "flags": 48,
+      "premium_type": 0
+    }
+  }
+}

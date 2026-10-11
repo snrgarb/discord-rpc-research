@@ -1,0 +1,20 @@
+{
+  "guilds": [
+    {
+      "id": "237870907027095552",
+      "name": "Yeah The Boys",
+      "icon_url": "https://cdn.discordapp.com/icons/237870907027095552/aeba21d1d08026f24b46f2c1926f451e.webp?size=256"
+    },
+    {
+      "id": "290238678352134145",
+      "name": "Plutonium",
+      "icon_url": "https://cdn.discordapp.com/icons/290238678352134145/a_a954466423b0f671f8e7c587a9e4129c.webp?size=256"
+    },
+    {
+      "id": "467656640519208960",
+      "name": "uNDeR",
+      "icon_url": "https://cdn.discordapp.com/icons/467656640519208960/7934d0fef27e2d7c1b055e524b15cda2.webp?size=256"
+    }
+  ],
+  "_note": "trimmed: real response listed 53 servers"
+}

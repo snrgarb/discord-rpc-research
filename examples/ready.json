@@ -1,0 +1,19 @@
+{
+  "config": {
+    "cdn_host": "cdn.discordapp.com",
+    "api_endpoint": "//discord.com/api",
+    "environment": "production"
+  },
+  "user": {
+    "id": "100000000000000001",
+    "username": "me",
+    "discriminator": "0",
+    "global_name": "Me",
+    "avatar": "0123456789abcdef0123456789abcdef",
+    "avatar_decoration_data": null,
+    "bot": false,
+    "flags": 48,
+    "premium_type": 0
+  },
+  "v": 1
+}

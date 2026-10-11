@@ -1,0 +1,12 @@
+{
+  "id": "200000000000000001",
+  "name": "",
+  "type": 1,
+  "topic": "",
+  "bitrate": 64000,
+  "user_limit": 0,
+  "guild_id": null,
+  "position": 0,
+  "messages": [],
+  "voice_states": []
+}
