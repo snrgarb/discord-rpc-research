@@ -1,4 +1,4 @@
-# Discord RPC spike
+# Discord RPC research
 
 Can a full-screen HTPC overlay drive Discord through the **desktop Discord app's local RPC**, without a bot, a self-bot, or scraping the Discord UI?
 
